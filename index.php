@@ -3,6 +3,7 @@ echo "Aero";
 echo "Brigade";
 echo "cat:aa";
 echo "branch bcode";
-echo "master commit again to check third party merge if any";
+echo "master commit again to check third party merge with branch C";
+>>>>>>> branchC
 exit;
 ?>
