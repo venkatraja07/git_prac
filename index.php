@@ -1,6 +1,6 @@
 <?php
 echo "Aero";
 echo "Brigade";
-echo "cat:";
+echo "cat:aa";
 exit;
 ?>
